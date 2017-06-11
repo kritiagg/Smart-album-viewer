@@ -1,2 +1,2 @@
-# Image_classification
-Classify and cluster images in messenger applications
+# Smart-album-viewer
+Using VGG Net and Siamese networks
